@@ -35,7 +35,7 @@ body {  width: 100%; margin: 0 auto; position:relative; text-align: center; colo
 /* section부분 아래 본문 */
 /* 검색바 */
  #section input{ border:0; display:flex; text-align:left; width:425px; height:51px; position:absolute; right:100px; font-size:25px; font-style:normal; margin-top:50px; color: #929292;}
- #section .search img{width:35px; height:35px; position:absolute; right:105px; top:630px;}
+ #section .search img{width:35px; height:35px; position:absolute; right:105px; top:575px;}
 
 /* 오늘의 추천식당 */
  #section .restaurants{position: absolute; width:200px; height: 40px; left:80px; top:640px; font-family:Cabin; font-style:normal; font-weight:normal; font-size:25px; line-height:25px; align-items:center; text-align:center; color: #000000;}
