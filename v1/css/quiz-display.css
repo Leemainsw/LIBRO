@@ -45,19 +45,3 @@ ol,ul
     right: 0;
     text-align: center;
 }
-
-#contain #info{
-    font-size: 50px;
-    font-family: 'Nanum Gothic', sans-serif;
-    color: #494949;
-}
-
-
-#contain #info b{
-    color: #548E40;
-}
-
-#contain #startBtn{
-    margin-top: 30px;
-    width: 50%;
-}
