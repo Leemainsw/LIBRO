@@ -6,6 +6,7 @@ body
 {
     margin: 0 auto;
     width: 100%;
+    position: fixed;
 }
 
 ol,ul
@@ -41,8 +42,9 @@ ol,ul
 #contain{
     position: absolute;
     width: 1200px;
-    height: 1000px;
-    right: 0;
+    height: 800px;
+    margin-top: 30px;
+    margin-left: 500px;
     text-align: center;
 }
 
@@ -52,9 +54,12 @@ ol,ul
     color: #494949;
 }
 
-
 #contain #info b{
     color: #548E40;
+}
+
+#coo{
+    width: 50%;
 }
 
 #contain #startBtn{
